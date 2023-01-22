@@ -8,9 +8,6 @@ Note: project requires *java* to be installed.
 External jar gson-2.8.2 is provided
 
 # Usage
-Dependencies installation:
-```
-```
 First we compile the project:
 ```
 % javac -cp libs/gson-2.8.2.jar src/**/*.java -d bin
